@@ -8,7 +8,7 @@ A comprehensive, performance-oriented Numerical Analysis Library written entirel
 
 ### 🔢 1. Mathematical Parser Engine
 * **Infix-to-Postfix Parser:** Custom stack implementation to convert human-readable mathematical strings into Postfix (Reverse Polish Notation) equations.
-* **Function Support:** Parses variables ($x$), constants ($e$), standard operators ($+, -, *, /, ^$), and advanced functions like trigonometric (sin, cos, tan) and inverse trigonometric actions (arcsin, arccos, arctan).
+* **Function Support:** Parses variables (`x`), constants (`e`), standard operators (`+`, `-`, `*`, `/`, `^`), and advanced functions like trigonometric (sin, cos, tan) and inverse trigonometric actions (arcsin, arccos, arctan).
 
 ### 📐 2. Root-Finding Solvers
 * **Bisection Method:** Brackets and converges on roots with automated interval validation checks.
