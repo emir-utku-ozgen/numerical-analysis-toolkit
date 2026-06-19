@@ -1,0 +1,21 @@
+u_Özgen/.git/
+fatal: bad source, source=proje.c, destination=main.c
+[main (root-commit) f262456] feat: initial commit with core numerical methods and expression parser
+ Committer: Emir Utku Özgen <emirutkuozgen@Emir-MacBook-Air-3.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 15303 insertions(+)
+ create mode 100644 .DS_Store
+ create mode 100644 23011032.pdf
+ create mode 100644 README.md
+ create mode 100644 main.c
